@@ -1,4 +1,4 @@
 [submodule "tauri-examples"]
-	path = examples
+	path = tauri-examples
 	url = https://github.com/tensor-programming/tauri-examples
 	branch = master
